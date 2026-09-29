@@ -1,0 +1,17 @@
+# Exclude build artifacts
+# Generated on 2026-11-05
+*.htm linguist-vendored  
+*.tsx linguist-detectable
+*.yml linguist-detectable=false
+
+*.gif binary
+
+Cargo.lock linguist-generated
+*.jpeg binary
+
+public/**/*.html linguist-vendored
+
+src/**/*.tsx linguist-detectable
+
+*.min.css linguist-generated
+# eof fe8b7e27
