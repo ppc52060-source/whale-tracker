@@ -1,0 +1,8 @@
+npm-debug.log*
+.DS_Store
+.cache/
+build/
+node_modules/
+.next/
+*.tgz
+dist/
